@@ -16,3 +16,16 @@ Specification:
   - < 18 is green,
   - < 25 is yellow,
   - otherwise red
+
+Tools used:
+
+* Javascript
+* Jasmine(Testing Tool)
+
+To run:
+
+Clone this repository, run the tests with "open SpecRunner.html" then "open index.html".
+
+Learning aims:
+
+Get comfortable using AJAX requests to dynamically update web page with information from an external API.

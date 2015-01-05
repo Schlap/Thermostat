@@ -28,12 +28,6 @@ $(document).ready(function(){
     });
 });
 
-
-
-
-
-
-
 // var currentTemp = data['weather']['curren_weather'][0]['temp'];    
 
 		// new ThermostatView('.temperature h1', parseInt(currentTemp));
